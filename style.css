@@ -1,0 +1,13 @@
+body { 
+    background-color:rgb(251, 251, 251)
+    } 
+    h1{
+        text-align: center;
+        font-size: 80px ;
+    }
+
+.col {
+    float: left;
+    width: 33.33%;
+    height: 300px;
+}
